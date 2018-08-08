@@ -1,2 +1,3 @@
 # gitTest1
-computer programing club : git Test
+computer programing club
+git Test
